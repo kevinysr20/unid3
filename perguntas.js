@@ -18,6 +18,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz futebol em inglês?',
-    'A palavra futebol em inglês é 
-soccer.'
+    'A palavra futebol em inglês é soccer.'
 )
